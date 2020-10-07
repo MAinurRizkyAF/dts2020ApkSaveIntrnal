@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan Aplikasi</string>
+    <string name="BuFile">Buat File</string>
+    <string name="UbFile">Ubah File</string>
+    <string name="BaFile">Baca File</string>
+    <string name="HaFile">Hapus File</string>
+    <string name="Hint">Hasil Baca File</string>
+</resources>
